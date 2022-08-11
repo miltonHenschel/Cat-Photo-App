@@ -1,2 +1,2 @@
 # Cat-Photo-App
- Only HTML Codes
+Building a cat photo app using only HTML.
